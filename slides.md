@@ -19,13 +19,13 @@ PandaStrike, LLC
 
 
 
-<q>It's just syntactic sugar.</q>
+### *It's just syntactic sugar.*
 
 
 
-### You say that &hellip;
+### You say that &hellip;<sup>1</sup>
 
-Bonus points if you get the reference.
+<footer>1. Bonus points if you get the reference.</footer>
 
 
 
@@ -184,7 +184,9 @@ Let's try this with CSS.
 
 It's not that you **should** use DSLs.
 
-It's that, in JavaScript, you **can't**.
+It's that, in JavaScript, you **can't**.<sup>1</sup>
+
+<footer>1. Of course, technically this isn't true. It just no one does, because the expressiveness of DSLs like Jade and Stylus presents too great an advantage over using JavaScript.</footer>
 
 
 
@@ -210,9 +212,17 @@ CoffeeScript is expressive enough to replace them all.
 
 
 
+It's not that we **should** replace them.
+
+It's that, in CoffeeScript, we **could**.
+
+
+
 That's more than syntactic sugar.
 
-    P(CoffeeScript) > P(JavaScript)
+
+
+### P(CoffeeScript) > P(JavaScript)
 
 
 

@@ -330,20 +330,30 @@ body {
 
 .reveal sup {
 	vertical-align: super;
+	font-size: 50%;
 }
 .reveal sub {
 	vertical-align: sub;
+	font-size: 50%;
 }
 
 .reveal small {
 	display: inline-block;
-	font-size: 0.6em;
+	font-size: 60%;
 	line-height: 1.2em;
 	vertical-align: top;
 }
 
 .reveal small * {
 	vertical-align: top;
+}
+
+.reveal footer {
+  margin-top: 8em;
+  padding-top: 2em;
+  border-top: 1px solid silver;
+  font-size: 50%;
+  line-height: 1.2em;
 }
 
 
